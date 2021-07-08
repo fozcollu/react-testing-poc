@@ -1,4 +1,4 @@
-POC for React Application testing 
+POC for simple React Application testing 
 
 Using
 - Jest
