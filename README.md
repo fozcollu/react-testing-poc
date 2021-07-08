@@ -1,1 +1,5 @@
-React-testing Poc
+POC for React Application testing 
+
+Using
+- Jest
+- React-Test-Library
